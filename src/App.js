@@ -32,7 +32,7 @@ const App = () => {
               trailColor: "rgba(62, 222,250 ,0.2)",
               backgroundColor: "rgba(0, 0,0)",
             })}
-          />
+          />  
 
           <CircularProgressbar
             className="aaaa"
